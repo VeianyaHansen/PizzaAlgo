@@ -6,3 +6,4 @@
 6. Include tip
 7. Wait for pizza to arrive
 8. Thank delivery driver and bring pizza inside
+9. Eat Pizza
